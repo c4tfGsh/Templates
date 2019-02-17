@@ -9,3 +9,5 @@
 3. 色を変更する場合は、/includes/lang/ja.php をテキストエディタで開き、$color = '紫'; などに変更して保存。
 
 4. また、文章内に daddyXX.gif を表示したい場合は、&lt;img src="&lt;?=$css?&gt;daddy12.gif" class="img-fluid" alt=""&gt; などと記述して下さい。
+
+ <p align="center"><img src="https://user-images.githubusercontent.com/26889922/52907754-3d415900-32ab-11e9-94c8-d378340f4a4d.jpg alt="daddy template screenshot"></p>
